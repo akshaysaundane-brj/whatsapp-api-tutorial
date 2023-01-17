@@ -2,7 +2,9 @@
 
 Found this project helpful and want to give a support by donating?
 
-You can donate directly to my bank account below.
+[![Donate with PayPal](paypal.svg)](https://www.paypal.me/nrmuhammad)
+
+Or donate directly to my bank account below.
 
 - Bank name: **Bank Mandiri** [ code: 008 ]
 - Account number: **161-00-0140973-4**
