@@ -2,7 +2,9 @@
 
 Merasa terbantu dengan projek ini dan ingin memberi dukungan dengan berdonasi?
 
-Teman-teman dapat memberikan donasi melalui rekening berikut ini:
+[![Donasi dengan PayPal](paypal.svg)](https://www.paypal.me/nrmuhammad)
+
+Teman-teman juga dapat memberikan donasi melalui rekening berikut ini:
 - Nama Bank: **Bank Mandiri** [ Kode Bank: 008 ]
 - Nomor Rekening: **161-00-0140973-4**
 - Nama Penerima: **Nur Muhammad**
