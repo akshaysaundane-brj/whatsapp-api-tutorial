@@ -2,7 +2,7 @@
   "name": "whatsapp-api",
   "version": "1.0.0",
   "description": "Whatsapp api by Ngekoding",
-  "main": "app.js",
+  "main": "app-multiple-account.js",
   "scripts": {
     "start": "node app-multiple-account.js",
     "start:dev": "nodemon app-multiple-account.js",
